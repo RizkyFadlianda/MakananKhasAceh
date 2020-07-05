@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" color="black">Makanan Khas Aceh</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="about">About</string>
+    <string name="contentDisc">Makanan Khas Aceh</string>
+    <string name="nama_masakan">Nama Masakan</string>
+    <string name="detail">Detail</string>
+    <string name="rizky_f">Rizky F</string>
+    <string name="email">rizkyfadlyanda@gmail.com</string>
+    <string name="kembali_ke_menu">Kembali ke menu</string>
+</resources>
